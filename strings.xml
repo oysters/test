@@ -15,7 +15,7 @@
     <string name="notification_content_text_completed">Доступно обновление для Вашей системы. Подтвердите установку.</string>
     <string name="notification_content_newversion">Доступно обновление.</string>
     <string name="new_version_query">Проверка обновлений...</string>
-    <string name="no_new_version">Вы пользуетесь последней версией.</string>
+    <string name="no_new_version">Вы используете последнюю версию.</string>
     <string name="network_error">Ошибка подключения к сети</string>
     <string name="insufficient_space_content">Установка потребует по крайней мере <xliff:g example="3.5M" id="deltasize">%s</xliff:g> байт памяти. Пожалуйста освободите память, чтобы продолжить.</string>
     <string name="unmount_sdcard">Ошибка монтирования SD-карты, пожалуйста проверьте ее</string>
