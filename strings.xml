@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Обновление ПО</string>
+    <string name="check_now">Проверить обновления</string>
+    <string name="option_settings">Настройки</string>
+    <string name="current_version_text">Текущая:</string>
+    <string name="new_version_text">Новая версия:</string>
+    <string name="download_progress">Прогресс:</string>
+    <string name="update_now">Обновить сейчас</string>
+    <string name="update_later">Обновить позже</string>
+    <string name="battery_low">Заряд батареи менее 30%. Пожалуйста, зарядите батарею и попробуйте снова!</string>
+    <string name="battery_remove_title">Внимание</string>
+    <string name="battery_remove">Пожалуйста, повторите после отключения от зарядного устройства!</string>
+    <string name="notification_content_title">Обновление ПО</string>
+    <string name="notification_content_text_completed">Доступно обновление для Вашей системы. Подтвердите установку.</string>
+    <string name="notification_content_newversion">Доступно обновление.</string>
+    <string name="new_version_query">Проверка обновлений...</string>
+    <string name="no_new_version">Вы пользуетесь последней версией.</string>
+    <string name="network_error">Ошибка подключения к сети</string>
+    <string name="insufficient_space_content">Установка потребует по крайней мере <xliff:g example="3.5M" id="deltasize">%s</xliff:g> байт памяти. Пожалуйста освободите память, чтобы продолжить.</string>
+    <string name="unmount_sdcard">Ошибка монтирования SD-карты, пожалуйста проверьте ее</string>
+    <string name="sdcard_crash_or_unmount">Отсутствует SD-карта или недостаточно свободного пространства.</string>
+    <string name="btn_retry">Повторить</string>
+    <string name="btn_pause">Пауза</string>
+    <string name="btn_resume">Продолжить</string>
+    <string name="btn_download">Загрузить</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_cancel_check">Отмена</string>
+    <string name="ver_notes_title">Примечания:</string>
+    <string name="cancel_download_title">Отменить загрузку</string>
+    <string name="cancel_download_content">Это действие приведет к удалению загружаемого файла.</string>
+    <string name="cancel_download_positive_btn">Да</string>
+    <string name="cancel_download_negative_btn">Нет</string>
+    <string name="update_prompt">Примечание: Во время обновления все действия будут отключены. Потребуется несколько минут, пожалуйста убедитесь, что заряд батареи достаточен.</string>
+    <string name="not_support_fota_title">Внимание</string>
+    <string name="not_support_version">Не поддерживается FOTA</string>
+    <string name="ratio">0%</string>
+    <string name="package_error_title">Ошибка установки</string>
+    <string name="package_error_message_invalid">Ошибка пакета. Пожалуйста проверьте обновление и загрузите снова.</string>
+    <string name="updateSuccessTitle">Обновление системы выполнено успешно</string>
+    <string name="updateFailTitle">Ошибка установки</string>
+    <string name="updateSuccess">У вас уже есть установленная версия <xliff:g example="gb.p37" id="version">%s</xliff:g>.</string>
+    <string name="updateFailed">Ошибка установленной версии <xliff:g example="gb.p37" id="version">%s</xliff:g>.</string>
+    <string name="package_unzip">Установка обновления, не прерывать...</string>
+    <string name="package_unzip_error">Ошибка распаковки</string>
+    <string name="downloadSuccess">Загрузка завершена</string>
+    <string name="tips">Советы</string>
+    <string name="tips_content"><Data><![CDATA[ <div style="font-size:15px;color:#4c4c4c"><p>1. FOTA может помочь вашему устройству работать быстрее и с большей эффективностью.</p>
+                                <p>2. Рекомендуется загружать обновление по Wi-Fi.</p>
+                                <p>3. Пожалуйста убедитесь, что уровень заряда вашей батареи более 30% и отключите зарядное устройство перед началом обновления.</p>
+                                <p>4. Ваше устройство может перезагружаться несколько раз во время обновления, пожалуйста, не удаляйте батарею, пока обновление не будет завершено.</p></div> ]]> </Data>
+    </string>
+    <string name="new_version">Новая версия:</string>
+    <string name="upgrade_newversion">Доступна новая версия:</string>
+    <string name="upgrade_hint">Обновление ПО</string>
+    
+    <string name="setting_autocheck">Проверять обновления </string>
+    <string name="setting_autocheck_title">Цикличность</string>
+    <string name="setting_autocheck_hint">Цикличность автообновления</string>
+    <string name="setting_autocheck_schedule1">Один день</string>
+    <string name="setting_autocheck_schedule2">Три дня</string>
+    <string name="setting_autocheck_schedule3">Еженедельно</string>
+    <string name="setting_autocheck_schedule4">Отключить</string>
+    
+    <string name="setting_only_wifi">Обновлять только через Wi-Fi</string>
+    <string name="setting_only_wifi_hint">Обновления будут скачаны только через Wi-Fi</string>
+    <string name="setting_autodownload">Автоматическая загрузка</string>
+    <string name="setting_autodownload_hint">Обновления будут скачаны автоматически</string>
+    <string name="setting_help_guide">Помощь</string>
+    <string name="setting_network_tip">Вы подключены к 2G/3G, измените настройки [Обновлять только через Wi-Fi] и повторите попытку.</string>
+    <string name="download_error_content">Сбой сетевого подключения</string>
+    <string name="download_confirm_content">Вы подключены к Интернет не через Wi-Fi, это может привести к повышенному расходу платного мобильного трафика. Продолжить загрузку?</string>
+    <string name="download_pause">Загрузка приостановлена</string>
+    <string name="filesize_error">Ошибка файла</string>
+    <string name="reboot">Перезагрузка...</string>
+
+    <string name="sdCard_upgrade_memory_space_not_enough">Ошибка</string>
+    <string name="sdCard_upgrade_copying">Вставка</string>
+    <string name="rom_damage">Ваша система повреждена, беспроводное обновление недоступно!</string>
+    <string name="rom_damage_need_full_update">Ваша система была повреждена, Вы можете только загрузить и установить файл с полным обновлением! Пожалуйста, перед обновлением создайте резервную копию!</string>
+    <string name="selected_update_zip">Выбранный файл</string>
+    <string name="sdCard_update_tips_content"><Data> <div style="font-size:15px;color:#4c4c4c"><p>1. Убедитесь, что выбранный файл - официальный;</p>
+                                <p>2. Локальное обновление может стереть Ваши данные, сохраните резервную копию перед обновлением;</p>
+                                <p>3. Установка неверного файла с обновлением повредит Ваше устройство;</p>
+                                <p>4. Нажмите кнопку [Обновить сейчас], Ваше устройство перейдет в режим восстановления. Пожалуйста, не вынимайте зарядку и ничего не делайте до тех пор, пока обновление не будет завершено.</p></div>  </Data></string>
+    <string name="sdCard_upgrade_hint">Обновить </string>
+    <string name="sdCard_upgrade_find_update_file_fail">Нет обновленного файла</string>
+    <string name="sdCard_upgrade_update_file_check">Проверка файла ...</string>
+    <string name="sdCard_upgrade_update_file_fail_prompt">Файл не существует, выберите еще раз.</string>
+    <string name="sdCard_upgrade_update_file_check_prompt">Подождите, файл копируется в корневой каталог</string>
+    <string name="sdCard_upgrade_copy_file_fail">Ошибка вставки</string>
+    <string name="sdCard_upgrade_copy_file_fail_prompt">Ошибка вставки, попробуйте еще раз</string>
+    <string name="install_selfupdate">Установка</string>
+    <string name="downloading_text">Новая версия загружается, подождите…</string>
+    <string name="download_completed_text">Загрузка завершена, для установки нажмите</string>
+    <string name="start_full_size_update">Начать все обновления</string>
+    <string name="empty_directory">Нет zip файлов в этой папке</string>
+    <string name="apk_not_exist">Файл для обновления не существует</string>
+    <string name="sdcard_update_prompt">Если Вы выберите и установите неофициальный или несоответствующий zip файл с обновлением, то Ваше устройство будет приведено в трудно восстановимое состояние!</string>
+    <string name="reboot_prompt_title">Ошибка системы</string>
+    <string name="reboot_prompt_content">Извините, файл FotaUpdateReboot не существует, произошла ошибка!</string>
+    <string name="export_data">Download log file</string>
+    <string name="start_catch_log">Start to capture logs</string>
+    <string name="stop_catch_log">End to capture logs</string>
+    <string name="option_exit">Выход</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_feedback">Обратная связь</string>
+    <string name="application_upgrade">Обновление приложений</string>
+    <string name="application_default_num">0</string>
+    <string name="ota_feedback">Обратная связь</string>
+    <string name="ota_dialog_feedback_success">Загруженно</string>
+    <string name="ota_dialog_feedback_loading_label">Подождите...</string>
+    <string name="ota_dialog_feedback_fail">Ошибка при загрузке, повторите!</string>
+    <string name="ota_device_rooted_content">Устройство имеет Root, обновление не доступно!</string>
+    <string name="ota_button_text_know">Ок</string>
+    <string name="ota_battery_low">Батарея имеет заряд %1$d%%, необходимо зарядить!</string>
+    <string name="feedback_title">Обратная связь</string>
+    <string name="full_update">Полное обновление</string>
+    <string name="option_file_select">Обновить локально</string>
+    <string name="ota_optional_full_check">Проверить польное обновление</string>
+    <string name="ota_rom_damaged_tip">Проверка...</string>
+    <string name="ota_toast_no_network">Нет подключение </string>
+    <string name="ota_wifi_setting">Настройки Wi-Fi</string>
+    <string name="out_sdcard">SD карта</string>
+    <string name="pop_install_remind_title">Советы:</string>
+    <string name="pop_install_schedule1">через 1 час</string>
+    <string name="pop_install_schedule2">через 4 часа</string>
+    <string name="pop_install_schedule3">через 8 часов</string>
+    <string name="pop_install_schedule4">через 24 часа</string>
+    <string name="remind_last_time">Напомнить</string>
+    <string name="report_dialog_process_content">Отправка...</string>
+
+</resources>
